@@ -16,7 +16,7 @@ fullDomains = f"{domain.split('.')[0]}_fulldomains.txt"
 full1 = f"{domain.split('.')[0]}_fulldomains200.txt"
 blacklist = "md,jpg,jpeg,gif,css,tif,tiff,png,ttf,woff,woff2,ico"
 katanalist = "js,jsp,json,php,aspx,asp"
-UserAgent = "User-Agent: OFJAAAH"
+UserAgent = "User-Agent: Yunkzinn"
 #notify = "notify -provider discord -silent"
 
  
